@@ -1,7 +1,7 @@
 /**
- * Goal: Zero out the twitter following list
+ * Goal: zero out the twitter following list
  *
- * Usage: Stay on the "Following" page
+ * Usage: stay on the "/Following" page
 */
 
 (() => {
